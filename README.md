@@ -61,7 +61,7 @@
 <hr/>
 
 <div align="center">
-  <img src="PASTE_YOUR_IMAGE_LINK_HERE" width="200" alt="Aditya's Avatar" />
+  <img src="https://avatars.githubusercontent.com/u/149888330?v=4" width="200" alt="Aditya's Avatar" />
   <br/>
   <i>“Turning caffeine into code.”</i>
 </div>
